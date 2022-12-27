@@ -3,7 +3,8 @@ import businessFinder from "../assets/images/businessfinder.png";
 import cloudbrick from "../assets/images/cloudbrick.png"; 
 import recipeApp from "../assets/images/recipe-app.png"; 
 import trusoft from "../assets/images/trusoft.png"; 
-import portfolio from "../assets/images/trusoft.png"; 
+import portfolio from "../assets/images/portfoliov1.png"; 
+
 
 export const data = [
   {
@@ -46,6 +47,6 @@ export const data = [
     name: "Portfolio",
     summary: "Restaurant App done using ReactJS",
     src: portfolio,
-    link: "https://flavo.netlify.app",
+    link: "https://awebambi.netlify.app/",
   },
 ];

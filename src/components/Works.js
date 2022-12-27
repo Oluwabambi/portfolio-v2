@@ -30,7 +30,7 @@ const Works = () => {
                 <span className="badge px-4 py-2 rounded-pill me-3 badge-bg">ReactJS</span>
                 <span className="badge px-4 py-2 rounded-pill badge-bg">CSS</span>
               </div>
-              <a href={work.link} target='_blank' className='site-link'>VISIT SITE <i className="fa-solid ms-2 fa-arrow-right"></i></a>
+              <a href={work.link} rel='noreferrer' target='_blank' className='site-link'>VISIT SITE <i className="fa-solid ms-2 fa-arrow-right"></i></a>
             </div>
           </div>
         ))}
