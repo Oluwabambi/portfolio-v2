@@ -5,7 +5,7 @@ const ExperienceSection = ({companyName,position,period,summary}) => {
       <h3>{position}</h3>
       <h5>{companyName}</h5>
       <p className="mb-0">{period}</p>
-      <p>{summary}</p>
+      {/* <p>{summary}</p> */}
     </div>
   );
 }

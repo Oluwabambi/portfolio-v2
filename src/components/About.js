@@ -29,8 +29,7 @@ const About = () => {
         I am a frontend developer with industry experience in building
         responsive and weel functional web applications. I am a developer based
         in Lagos, Nigeria focused on creating interactive digital experiences on
-        the web, working with brands and industry leaders such as DISNEY,
-        PAYSTACK, JELLY, and NULL amongst others to achieve this.
+        the web, working with brands and industry leaders.
       </p>
       <div className='xp-sect'>
         <h3 className='a-title' onClick={() => toggle(1)}>
